@@ -1,5 +1,6 @@
 # AI-Data-Analyzer
 
+![](example.gif)
 Esse projeto utiliza o modelo Llama 3 para realizar análises em qualquer dataset, oferecendo uma interface fácil de usar para explorar dados e gerar insights significativos.
 
 ## Funcionalidades
